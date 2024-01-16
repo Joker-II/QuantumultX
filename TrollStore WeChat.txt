@@ -1,0 +1,12 @@
+主要原因是用巨魔安装软件后，默认不是user权限。
+
+解决方法：在巨魔找到安装好的微信，
+然后点击选择，Switch to "User" Registration，
+然后在选择Switch to "User"，
+这时候你就是user权限，
+此项设置后不能注销，注销或者重启手机会导致微信打不开，
+需要把微信切换成system权限，然后再切换回user权限，
+
+解决办法: 在巨魔找到安装好的微信，
+点击Switch to "system”Registration，
+然后注销后，再次重复上面的方法就可以了！
