@@ -1,5 +1,7 @@
-主要原因是用巨魔安装软件后，默认不是user权限。
+适用于 WeChat 8.0.33 多开  其它版本未经测试
 
+主要原因是用巨魔安装软件后，默认不是user权限。
+方案1.
 解决方法：在巨魔找到安装好的微信，
 然后点击选择，Switch to "User" Registration，
 然后在选择Switch to "User"，
@@ -10,3 +12,6 @@
 解决办法: 在巨魔找到安装好的微信，
 点击Switch to "system”Registration，
 然后注销后，再次重复上面的方法就可以了！
+
+方案2.
+解决方法：用Filza文件管理器打开APP管理，选择 WeChat ， 点击主程序i ， 勾选所有权限 ， 点击储存， 重启 WeChat ！
