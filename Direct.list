@@ -1,5 +1,13 @@
-    # > 云闪付 > 中国银行 > 中国农业银行 > 中国移动 > 拼多多 > 抖音 > 微软 
+    # > 知乎 # > 云闪付 > 中国银行 > 中国农业银行 > 中国移动 > 拼多多 > 抖音 > 微软 
     # > 苹果 > 爱奇艺 > 乐视 > 腾讯系 > 微信 > 腾讯视频 > 阿里系 > 支付宝
+# > 知乎
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/31,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 
 # > 云闪付
 DOMAIN-SUFFIX,95516.cn
