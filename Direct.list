@@ -799,7 +799,6 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 PROCESS-NAME,OneDrive
@@ -903,12 +902,6 @@ DOMAIN-SUFFIX,qy.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,suike.cn
 DOMAIN-KEYWORD,qiyi
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
-USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
-USER-AGENT,iQiyi*
 IP-CIDR,101.224.0.0/13
 IP-CIDR,103.44.56.0/22
 IP-CIDR,103.5.34.153/32
@@ -1506,11 +1499,6 @@ DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zjump.cn
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
@@ -1854,8 +1842,6 @@ IP-CIDR6,240e:f7:a070:100::/60,no-resolve
 IP-CIDR6,240e:ff:9018:100::/60,no-resolve
 IP-CIDR6,240e:ff:f100::/44,no-resolve
 IP-ASN,132203,no-resolve
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
 
 # > 腾讯视频
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
@@ -1877,7 +1863,6 @@ DOMAIN-SUFFIX,qqvideo.gtimg.com
 DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,video.qq.com
-USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
 IP-CIDR,58.49.111.117/32,no-resolve
 IP-CIDR,58.49.111.79/32,no-resolve
@@ -1914,11 +1899,6 @@ IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
 
 # > 阿里系
 DOMAIN-KEYWORD,uc
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,alibaba
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,tmall
 IP-CIDR,103.206.40.0/22,no-resolve
 IP-CIDR,103.38.56.0/22,no-resolve
 IP-CIDR,103.52.196.0/22,no-resolve
