@@ -1,5 +1,6 @@
     # > 知乎 # > 云闪付 > 中国银行 > 中国农业银行 > 中国移动 > 拼多多 > 抖音 > 微软 
     # > 苹果 > 爱奇艺 > 乐视 > 腾讯系 > 微信 > 腾讯视频 > 阿里系 > 支付宝
+
 # > 知乎
 HOST-SUFFIX,zhihu.com
 HOST-SUFFIX,zhimg.com
@@ -8,6 +9,7 @@ IP-CIDR,103.41.167.234/31,no-resolve
 IP-CIDR,103.41.167.236/32,no-resolve
 IP-CIDR,118.89.204.198/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+
 # > 云闪付
 HOST-SUFFIX,95516.cn
 HOST-SUFFIX,95516.com
@@ -26,6 +28,7 @@ HOST-SUFFIX,unionpay.net
 HOST-SUFFIX,unionpayintl.cn
 HOST-SUFFIX,unionpayintl.com
 HOST-SUFFIX,unionpaysecure.com
+
 # > 中国银行
 HOST-SUFFIX,bank-of-china.com
 HOST-SUFFIX,bankofchina.com
@@ -49,6 +52,7 @@ HOST-SUFFIX,bocigroup.com
 HOST-SUFFIX,bocim.com
 HOST-SUFFIX,bocservices.com.cn
 HOST-SUFFIX,ftcwifi.com
+
 # > 中国农业银行
 HOST-SUFFIX,95599.cn
 HOST-SUFFIX,bscabank.com
@@ -56,6 +60,7 @@ HOST-SUFFIX,openaboc.cn
 HOST-SUFFIX,openaboc.com
 HOST-SUFFIX,openaboc.com.cn
 HOST-KEYWORD,abchina
+
 # > 中国移动
 HOST-SUFFIX,10086.cn
 HOST-SUFFIX,12530.com
@@ -85,11 +90,13 @@ HOST-SUFFIX,mmarket.com
 HOST-SUFFIX,mmarket6.com
 HOST-SUFFIX,monternet.com
 HOST-SUFFIX,warmchina121.com
+
 # > 拼多多
 HOST-SUFFIX,pddpic.com
 HOST-SUFFIX,pinduoduo.com
 HOST-SUFFIX,pinduoduo.net
 HOST-SUFFIX,yangkeduo.com
+
 # > 抖音
 HOST-SUFFIX,amemv.com
 HOST-SUFFIX,douyincdn.com
@@ -124,6 +131,7 @@ HOST-SUFFIX,umeng.com
 HOST-SUFFIX,xycdn.com
 HOST-SUFFIX,zijieapi.com
 HOST-SUFFIX,zjcdn.com
+
 # > 微软
 HOST,vsmarketplacebadge.apphb.com
 HOST-SUFFIX,21vbc.com
@@ -796,6 +804,7 @@ USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
+
 # > 苹果
 HOST-KEYWORD,apple
 HOST-KEYWORD,apple-support
@@ -855,6 +864,7 @@ HOST,streamingaudio.itunes.apple.com
 HOST-SUFFIX,applemusic.com
 HOST-SUFFIX,blobstore.apple.com
 HOST-SUFFIX,music.apple.com
+
 # > 爱奇艺
 HOST-SUFFIX,71.am
 HOST-SUFFIX,71.am.com
@@ -912,6 +922,7 @@ IP-CIDR,23.211.15.99/32
 IP-CIDR,23.40.241.251/32
 IP-CIDR,23.40.242.10/32
 IP-CIDR,23.53.32.88/32
+
 # > 乐视
 HOST-SUFFIX,le.com
 HOST-SUFFIX,lecloud.com
@@ -927,6 +938,7 @@ HOST-SUFFIX,letvlive.com
 HOST-SUFFIX,letvstore.com
 HOST-SUFFIX,sanguowudi.com
 HOST-SUFFIX,videougc.com
+
 # > 腾讯系
 HOST-SUFFIX,1700.cn
 HOST-SUFFIX,17roco.com
@@ -1498,6 +1510,7 @@ IP-CIDR,103.238.16.0/23,no-resolve
 IP-CIDR,103.7.28.0/22,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
+
 # > 微信
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net
 HOST,dldir1.qq.com
@@ -1819,6 +1832,7 @@ IP-CIDR6,240e:f7:a070:100::/60,no-resolve
 IP-CIDR6,240e:ff:9018:100::/60,no-resolve
 IP-CIDR6,240e:ff:f100::/44,no-resolve
 IP-ASN,132203,no-resolve
+
 # > 腾讯视频
 HOST,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
 HOST,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
@@ -1871,6 +1885,7 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
+
 # > 阿里系
 HOST-KEYWORD,uc
 IP-CIDR,103.206.40.0/22,no-resolve
@@ -1927,6 +1942,7 @@ IP-CIDR,59.82.248.0/22,no-resolve
 IP-CIDR,72.254.0.0/16,no-resolve
 IP-CIDR,8.128.0.0/10,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
+
 # > 支付宝
 HOST-SUFFIX,alipay
 HOST-SUFFIX,alipay-corp.com
