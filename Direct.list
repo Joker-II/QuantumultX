@@ -1,4 +1,4 @@
-    # > 抖音 > 苹果 > 微信 > 云闪付 > 中国银行 > 中国农业银行 > 微软 
+    # > 苹果 > 云闪付 > 中国银行 > 中国农业银行
     # > HOST > IPV6 > IPV4 > ASN
 
 # > 苹果
@@ -60,7 +60,6 @@ HOST,streamingaudio.itunes.apple.com
 HOST-SUFFIX,applemusic.com
 HOST-SUFFIX,blobstore.apple.com
 HOST-SUFFIX,music.apple.com
-
 
 # > 云闪付
 HOST-SUFFIX,95516.cn
