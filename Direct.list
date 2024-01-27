@@ -113,6 +113,10 @@ HOST-SUFFIX,openaboc.com.cn
 HOST-KEYWORD,abchina
 
 # > HOST
+HOST,ad.12306.cn
+HOST,gg.caixin.com
+HOST,img.rebang.today
+HOST,wecar.myapp.com
 HOST-SUFFIX,ms
 HOST-SUFFIX,xn--1qqw23a
 HOST-SUFFIX,xn--3bst00m
