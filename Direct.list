@@ -1,66 +1,6 @@
     # > 苹果 > 云闪付 > 中国银行 > 中国农业银行
     # > HOST > IPV6 > IPV4 > ASN
 
-# > 苹果
-HOST-KEYWORD,apple
-HOST-KEYWORD,apple-support
-HOST-KEYWORD,smp-device
-HOST-KEYWORD,testflight
-HOST-KEYWORD,icloud
-IP-CIDR,139.178.128.0/18,no-resolve
-IP-CIDR,144.178.0.0/19,no-resolve
-IP-CIDR,144.178.36.0/22,no-resolve
-IP-CIDR,144.178.48.0/20,no-resolve
-IP-CIDR,17.0.0.0/8,no-resolve
-IP-CIDR,192.35.50.0/24,no-resolve
-IP-CIDR,198.183.17.0/24,no-resolve
-IP-CIDR,205.180.175.0/24,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
-USER-AGENT,*FindMyiPhone?
-USER-AGENT,*Music?
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,*com.apple.Maps?
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,Maps*
-USER-AGENT,Wallet*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.appstored*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,passd*
-USER-AGENT,Music*
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-USER-AGENT,com.apple.trustd*
-USER-AGENT,AppleTV*
-USER-AGENT,com.apple.tv*
-PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
-PROCESS-NAME,storedownloadd
-PROCESS-NAME,com.apple.geod
-PROCESS-NAME,Music
-PROCESS-NAME,News
-PROCESS-NAME,LookupViewService
-PROCESS-NAME,TV
-#AppStore
-HOST,apps.apple.com
-HOST,itunes.apple.com
-# > 苹果音乐
-HOST,aod-ssl.itunes.apple.com
-HOST,aod.itunes.apple.com
-HOST,audio-ssl.itunes.apple.com
-HOST,audio.itunes.apple.com
-HOST,mvod.itunes.apple.com
-HOST,streamingaudio.itunes.apple.com
-HOST-SUFFIX,applemusic.com
-HOST-SUFFIX,blobstore.apple.com
-HOST-SUFFIX,music.apple.com
-
 # > 云闪付
 HOST-SUFFIX,95516.cn
 HOST-SUFFIX,95516.com
