@@ -57,7 +57,6 @@ HOST,ad.12306.cn
 HOST,gg.caixin.com
 HOST,img.rebang.today
 HOST,wecar.myapp.com
-HOST-SUFFIX,ms
 HOST-SUFFIX,xn--1qqw23a
 HOST-SUFFIX,xn--3bst00m
 HOST-SUFFIX,xn--3ds443g
@@ -126,10 +125,6 @@ USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
-USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
 USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
