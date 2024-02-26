@@ -1,0 +1,100 @@
+#  (A).*(B)        节点名既有 A又有 B
+#  (A)|(B)         节点名有 A 或者 B  
+#  ^((?!A).)*$     节点名不含有 A
+#  (?!.*(A)).*(B)  节点名不含有 A，同时含有 B
+#^((?!电报|失联|测试|套餐|家宽|0.5X).)*$
+
+# > geoip地址 https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb
+
+[general]
+#running_mode_trigger = filter, filter, Q:all_direct,wif:all_proxy
+#在蜂窝数据使用分流 (第一个 filter)，在 Wi-Fi 使用分流 (第二个 filter)，在 SSID 为 Q 时使用全部直连。注意：此时 Rewrite 与 Task 仍然生效。
+# > 用于节点延迟测试
+server_check_url= http://www.gstatic.com/generate_204
+# > 服务器测试超时时间 (毫秒)
+server_check_timeout = 2000
+# > 用于设置关联图标显示
+profile_img_url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
+# > 用于Check节点IP地址(以下geo_location_checker任选一个即可)
+#geo_location_checker=disabled
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
+# > 功能强大的解析器，用于引用资源的转换
+resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+# > 下列路径将不经过QuanX的处理
+excluded_routes=239.255.255.250/32, 24.105.30.129/32, 185.60.112.157/32, 185.60.112.158/32, 182.162.132.1/32
+udp_whitelist=1-442, 444-65535
+#如你遭遇 instagram 某些页面卡顿，可添加
+#udp_whitelist=53, 80-427, 444-65535
+# > dns_exclusion_list
+dns_exclusion_list=*.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.pingan.com.cn, *.cmbchina.com
+[dns]
+# > HTTP/3 的 DoH 
+prefer-doh3
+doh-server=https://doh.pub/dns-query,https://223.5.5.5/dns-query
+# > QuantumultX开启IPV6方法，删去下面的「no-ipv6」，在「VPN」栏中，开启「兼容性增强」
+# > no-ipv6
+no-system
+server=119.29.29.29
+server=/*.tmall.com/223.5.5.5
+server=/*.aliyun.com/223.5.5.5 
+
+[http_backend]
+
+[policy]
+url-latency-benchmark=AUTO, server-tag-regex=(?!.*(测试)).*((美国)|(香港)|(台湾)|(日本)|(新加坡)), check-interval=600, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available_1.png
+url-latency-benchmark=Global, server-tag-regex=(?!.*(测试)).*(新加坡), check-interval=300, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png
+url-latency-benchmark=Google, server-tag-regex=(?!.*(测试)).*(新加坡), check-interval=300, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+url-latency-benchmark=Spotify, server-tag-regex=日本, check-interval=300, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+url-latency-benchmark=TikTok, server-tag-regex=(?!.*(GPT)).*(美国), check-interval=300, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_2.png
+url-latency-benchmark=Telegram, server-tag-regex=(?!.*(测试)).*((香港)|(台湾)), check-interval=300, tolerance=100, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+# > 默认设置10分钟测速一次 check-interval=600刷新时间
+[server_local]
+# 本地服务器部分
+# 自行添加即可
+
+
+[server_remote]
+
+https://service-2yo94l6s-1323819695.gz.tencentapigw.com.cn/api/v1/client/subscribe?token=cccd0f2700aa4e7f4efff8dc3ca30581, tag=X, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png, update-interval=86400, opt-parser=true, enabled=true
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=00d08e370dae9d322dc8bdb9e0f14204, tag=Helium Network, update-interval=86400, opt-parser=true, enabled=true
+https://moji.mojieurl.com/api/v1/client/subscribe?token=2e42039d1374ef79b2083db58a6d6b3f, tag=M, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png, update-interval=86400, opt-parser=true, enabled=true
+
+[filter_remote]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, tag=AD, force-policy=reject, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Direct.list, tag=Direct, force-policy=direct, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Global.list, tag=Global, force-policy=Global, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Google.list, tag=Google, force-policy=Google, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Spotify.list, tag=Spotify, force-policy=Spotify, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Telegram.list, tag=Telegram, force-policy=Telegram, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
+https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Microsoft.list, tag=Microsoft, force-policy=TikTok, update-interval=-1, opt-parser=true, enabled=true
+
+[filter_local]
+host-keyword, easylist, direct
+ip-asn, 56040, direct
+
+# > 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)
+
+# > local
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 224.0.0.0/24, direct
+ip-cidr, 182.254.116.0/24, direct
+
+# > geoip2
+geoip, cn, direct
+final, AUTO
+
+[rewrite_remote]
+
+# rewrite 复写远程订阅
+
+[rewrite_local]
+#本地复写规则 
+# spotify hostname = spclient.wg.spotify.com
+^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Spotify-JS.js
+^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/ url script-request-header https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Spotify-Json.js
+
+[task_local]
