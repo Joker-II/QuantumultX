@@ -55,10 +55,6 @@ url-latency-benchmark=Telegram, server-tag-regex=(?!.*(测试)).*((香港)|(台�
 
 [server_remote]
 
-https://service-2yo94l6s-1323819695.gz.tencentapigw.com.cn/api/v1/client/subscribe?token=cccd0f2700aa4e7f4efff8dc3ca30581, tag=X, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png, update-interval=86400, opt-parser=true, enabled=true
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=00d08e370dae9d322dc8bdb9e0f14204, tag=Helium Network, update-interval=86400, opt-parser=true, enabled=true
-https://moji.mojieurl.com/api/v1/client/subscribe?token=2e42039d1374ef79b2083db58a6d6b3f, tag=M, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png, update-interval=86400, opt-parser=true, enabled=true
-
 [filter_remote]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, tag=AD, force-policy=reject, update-interval=86400, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/Joker-II/QuantumultX/Rule/Direct.list, tag=Direct, force-policy=direct, update-interval=-1, opt-parser=true, inserted-resource=true, enabled=true
