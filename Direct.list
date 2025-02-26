@@ -11,7 +11,6 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,weibo
-USER-AGENT,Aweme*
 USER-AGENT,Toutiao
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
@@ -76,6 +75,7 @@ USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
+PROCESS-NAME,com.ss.iphone.ugc.Aweme
 PROCESS-NAME,Music
 PROCESS-NAME,storedownloadd
 PROCESS-NAME,com.apple.geod
