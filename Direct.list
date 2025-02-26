@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,weibo
 USER-AGENT,Aweme*
+USER-AGENT,Toutiao
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,MegaWerewolf*
