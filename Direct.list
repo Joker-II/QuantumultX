@@ -76,9 +76,8 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,com.ss.iphone.ugc.Aweme
-PROCESS-NAME,Music
+PROCESS-NAME,com.tencent.xin
 PROCESS-NAME,storedownloadd
 PROCESS-NAME,com.apple.geod
-PROCESS-NAME,News
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,TV
