@@ -31,6 +31,3 @@ USER-AGENT,Wallet*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
-PROCESS-NAME,com.ss.iphone.ugc.Aweme
-PROCESS-NAME,storedownloadd
-PROCESS-NAME,LookupViewService
