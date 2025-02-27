@@ -21,7 +21,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,RemotePlay*
 USER-AGENT,TeamViewer*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
@@ -30,14 +29,11 @@ USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,DomesticMedia*
 USER-AGENT,MOO*
-USER-AGENT,walkman*
 USER-AGENT,live4iphone*
 USER-AGENT,*Music?
 USER-AGENT,*WeatherFoundation*
-USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
 USER-AGENT,Wallet*
-USER-AGENT,fmflocatord*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
