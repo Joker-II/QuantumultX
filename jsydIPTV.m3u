@@ -137,47 +137,35 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视",凤凰卫视资讯台
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV明星大片
+#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV 明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV 爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV动作电影
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV 动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV 惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV 家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" group-title="NewTV",古装剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV军旅剧场
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV 军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV军事评论
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV 军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV 金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="NewTV央广购物" tvg-name="NewTV央广购物" group-title="NewTV",NewTV央广购物
-http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" group-title="NewTV",NewTV精选影视
-http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV 精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV 精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" group-title="NewTV",NewTV精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV农业致富
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV 农业致富
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV 潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="NewTV热播精选" tvg-name="NewTV热播精选" group-title="NewTV",NewTV热播精选
-http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV炫舞未来
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV 炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV怡伴健康
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV 怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV中国功夫
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV 中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" group-title="NewTV",NewTV武搏世界
-http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
