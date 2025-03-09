@@ -147,7 +147,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" group-title="NewTV",NewTV古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" group-title="NewTV",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 #EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
@@ -157,11 +157,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" group-title="NewTV",NewTV精品记录
+#EXTINF:-1 tvg-id="NewTV央广购物" tvg-name="NewTV央广购物" group-title="NewTV",NewTV央广购物
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" group-title="NewTV",NewTV精选影视
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品剧场" tvg-name="NewTV精品剧场" group-title="NewTV",NewTV精品剧场
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
