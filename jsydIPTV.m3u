@@ -73,7 +73,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="4KUHD" tvg-name="4KUHD"  group-title="卫视",4KUHD
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" group-title="卫视",北京纪实
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" group-title="卫视",北京纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
