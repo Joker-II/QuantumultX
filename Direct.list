@@ -14,14 +14,13 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,tencent
-DOMAIN-KEYWORD,serv00
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,Microsoft
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,geometryauto
 USER-AGENT,zhihuiguanjia*
 USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
-USER-AGENT,Microsoft*
 USER-AGENT,TeamViewer*
 USER-AGENT,hide*
 USER-AGENT,*WeatherFoundation*
