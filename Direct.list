@@ -19,6 +19,8 @@ DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,Microsoft
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,geometryauto
+DOMAIN-SUFFIX,cn
+IP6-CIDR,::/0
 USER-AGENT,zhihuiguanjia*
 USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
