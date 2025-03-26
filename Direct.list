@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,komect
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,tencent
 DOMAIN-KEYWORD,bilibili
@@ -20,7 +21,6 @@ DOMAIN-KEYWORD,Microsoft
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,geometryauto
 DOMAIN-SUFFIX,cn
-IP-CIDR6,::/0
 USER-AGENT,zhihuiguanjia*
 USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
