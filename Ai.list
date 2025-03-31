@@ -20,7 +20,6 @@ DOMAIN-SUFFIX, openai.com
 
 # Google Gemini
 DOMAIN, ai.google.dev
-DOMAIN, aida.googleapis.com
 DOMAIN, aistudio.google.com
 DOMAIN, alkalicore-pa.clients6.google.com
 DOMAIN, alkalimakersuite-pa.clients6.google.com
@@ -30,11 +29,5 @@ DOMAIN, deepmind.google
 DOMAIN, gemini.google.com
 DOMAIN, generativeai.google
 DOMAIN, makersuite.google.com
-DOMAIN, geller-pa.googleapis.com
-DOMAIN, generativelanguage.googleapis.com
-DOMAIN, proactivebackend-pa.googleapis.com
-DOMAIN, oauth2.googleapis.com
-DOMAIN, speechs3proto2-pa.googleapis.com
-DOMAIN, notifications-pa.googleapis.com
-DOMAIN, oauthaccountmanager.googleapis.com
-DOMAIN, firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX, googleapis.com
+
