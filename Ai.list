@@ -9,7 +9,6 @@ DOMAIN, o33249.ingest.us.sentry.io
 DOMAIN, openaicom.imgix.net
 DOMAIN, openai.com.cdn.cloudflare.net
 DOMAIN, openaiapi-site.azureedge.net
-DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
 DOMAIN, turn.livekit.cloud
 DOMAIN-SUFFIX, chat.com
