@@ -5,7 +5,7 @@ DOMAIN, chatgpt.livekit.cloud
 DOMAIN, host.livekit.cloud
 DOMAIN, api.statsig.com
 DOMAIN, api-iam.intercom.io
-DOMAIN, o33249.ingest.sentry.io
+DOMAIN, o33249.ingest.us.sentry.io
 DOMAIN, openaicom.imgix.net
 DOMAIN, openai.com.cdn.cloudflare.net
 DOMAIN, openaiapi-site.azureedge.net
