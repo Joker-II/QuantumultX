@@ -1,32 +1,29 @@
 # OpenAI ChatGPT
-AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-), (DOMAIN-SUFFIX, webpubsub.azure.com))
-AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
-DOMAIN, chatgpt.livekit.cloud
-DOMAIN, host.livekit.cloud
-DOMAIN, api.statsig.com
-DOMAIN, api-iam.intercom.io
-DOMAIN, o33249.ingest.us.sentry.io
-DOMAIN, openaicom.imgix.net
-DOMAIN, openai.com.cdn.cloudflare.net
-DOMAIN, openaiapi-site.azureedge.net
-DOMAIN, production-openaicom-storage.azureedge.net
-DOMAIN, turn.livekit.cloud
-DOMAIN-SUFFIX, chat.com
-DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX, oaistatic.com
-DOMAIN-SUFFIX, oaiusercontent.com
-DOMAIN-SUFFIX, openai.com
+HOST, chatgpt.livekit.cloud
+HOST, host.livekit.cloud
+HOST, api.statsig.com
+HOST, api-iam.intercom.io
+HOST, o33249.ingest.us.sentry.io
+HOST, openaicom.imgix.net
+HOST, openai.com.cdn.cloudflare.net
+HOST, openaiapi-site.azureedge.net
+HOST, production-openaicom-storage.azureedge.net
+HOST, turn.livekit.cloud
+HOST-SUFFIX, chat.com
+HOST-SUFFIX, chatgpt.com
+HOST-SUFFIX, oaistatic.com
+HOST-SUFFIX, oaiusercontent.com
+HOST-SUFFIX, openai.com
 
 # Google Gemini
-DOMAIN, ai.google.dev
-DOMAIN, aistudio.google.com
-DOMAIN, alkalicore-pa.clients6.google.com
-DOMAIN, alkalimakersuite-pa.clients6.google.com
-DOMAIN, bard.google.com
-DOMAIN, deepmind.com
-DOMAIN, deepmind.google
-DOMAIN, gemini.google.com
-DOMAIN, generativeai.google
-DOMAIN, makersuite.google.com
-DOMAIN-SUFFIX, googleapis.com
-
+HOST, ai.google.dev
+HOST, aistudio.google.com
+HOST, alkalicore-pa.clients6.google.com
+HOST, alkalimakersuite-pa.clients6.google.com
+HOST, bard.google.com
+HOST, deepmind.com
+HOST, deepmind.google
+HOST, gemini.google.com
+HOST, generativeai.google
+HOST, makersuite.google.com
+HOST-SUFFIX, googleapis.com
