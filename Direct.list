@@ -1,33 +1,33 @@
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,cn
-DOMAIN-KEYWORD,qq
-DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,aweme
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,douyin
-DOMAIN-KEYWORD,komect
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,tencent
-DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,hotmail
-DOMAIN-KEYWORD,Microsoft
-DOMAIN-KEYWORD,geometryauto
-USER-AGENT,zhihuiguanjia*
-USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessengerClient*
-USER-AGENT,TeamViewer*
-USER-AGENT,hide*
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,FMFD*
-USER-AGENT,Wallet*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,passd*
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, autonavi.com
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, hotmail.com
+DOMAIN-SUFFIX, cdn-apple.com
+DOMAIN-SUFFIX, cn
+DOMAIN-KEYWORD, qq
+DOMAIN-KEYWORD, weibo
+DOMAIN-KEYWORD, aweme
+DOMAIN-KEYWORD, alicdn
+DOMAIN-KEYWORD, alipay
+DOMAIN-KEYWORD, aliyun
+DOMAIN-KEYWORD, baidu
+DOMAIN-KEYWORD, douyin
+DOMAIN-KEYWORD, komect
+DOMAIN-KEYWORD, taobao
+DOMAIN-KEYWORD, tencent
+DOMAIN-KEYWORD, bilibili
+DOMAIN-KEYWORD, hotmail
+DOMAIN-KEYWORD, Microsoft
+DOMAIN-KEYWORD, geometryauto
+USER-AGENT, zhihuiguanjia*
+USER-AGENT, MicroMessenger*
+USER-AGENT, MicroMessengerClient*
+USER-AGENT, TeamViewer*
+USER-AGENT, hide*
+USER-AGENT, *WeatherFoundation*
+USER-AGENT, FMFD*
+USER-AGENT, Wallet*
+USER-AGENT, geod*
+USER-AGENT, locationd*
+USER-AGENT, passd*
