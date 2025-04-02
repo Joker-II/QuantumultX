@@ -4,6 +4,7 @@ DOMAIN, api-iam.intercom.io
 DOMAIN, o33249.ingest.us.sentry.io
 DOMAIN, openaicom.imgix.net
 DOMAIN, openai.com.cdn.cloudflare.net
+DOMAIN, browser-intake-datadoghq.com
 DOMAIN-SUFFIX, azureedge.net
 DOMAIN-SUFFIX, livekit.cloud
 DOMAIN-SUFFIX, chat.com
@@ -11,6 +12,10 @@ DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, revenuecat.com
+IP-CIDR, 24.199.123.28/32,no-resolve
+IP-CIDR, 64.23.132.171/32,no-resolve
+IP-ASN, 20473,no-resolve
 
 # Google Gemini
 DOMAIN, ai.google.dev
