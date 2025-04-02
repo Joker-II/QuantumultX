@@ -8,12 +8,12 @@ DOMAIN, openaicom.imgix.net
 DOMAIN, openai.com.cdn.cloudflare.net
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN, production-openaicom-storage.azureedge.net
-DOMAIN, turn.livekit.cloud
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, turn.livekit.cloud
 
 # Google Gemini
 DOMAIN, ai.google.dev
