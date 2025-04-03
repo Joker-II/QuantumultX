@@ -27,6 +27,10 @@ DOMAIN-SUFFIX, generativeai.google
 DOMAIN-SUFFIX, clients6.google.com
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, makersuite.google.com
+DOMAIN-SUFFIX, oauth2.googleapis.com
+DOMAIN-SUFFIX, people-pa.googleapis.com
 DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, notifications-pa.googleapis.com
 DOMAIN-SUFFIX, generativelanguage.googleapis.com
 DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX, oauthaccountmanager.googleapis.com
