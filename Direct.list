@@ -22,6 +22,7 @@ DOMAIN-KEYWORD, outlook
 DOMAIN-KEYWORD, hotmail
 DOMAIN-KEYWORD, Microsoft
 DOMAIN-KEYWORD, geometryauto
+IP-CIDR6,::/0
 USER-AGENT, zhihuiguanjia*
 USER-AGENT, MicroMessenger*
 USER-AGENT, MicroMessengerClient*
