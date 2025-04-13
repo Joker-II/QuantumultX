@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX, icloud.com
-DOMAIN-SUFFIX, hotmail.com
-DOMAIN-SUFFIX, cn
-IP-CIDR6, ::/0
 USER-AGENT, zhihuiguanjia*
 USER-AGENT, MicroMessenger*
 USER-AGENT, MicroMessengerClient*
