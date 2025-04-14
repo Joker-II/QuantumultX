@@ -1,9 +1,9 @@
 # > Google > YouTube > Wikipedia > Github 
 # > Google
-DOMAIN, googleapis.com
 DOMAIN, play.googleapis.com
 DOMAIN, content-autofill.googleapis.com
 DOMAIN, optimizationguide-pa.googleapis.com
+DOMAIN, www.googleapis.com
 DOMAIN-KEYWORD, gmail
 DOMAIN-SUFFIX, 0emm.com
 DOMAIN-SUFFIX, 1e100.net
