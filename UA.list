@@ -9,12 +9,12 @@ DOMAIN-KEYWORD, Saasexch
 DOMAIN-KEYWORD, mokexapp
 DOMAIN-KEYWORD, yingwangtech
 
-DOMAIN-SUFFIX, icloud.com, direct
-DOMAIN-SUFFIX, hotmail.com, direct
-DOMAIN-SUFFIX, microsoftonline.com, direct
-DOMAIN-SUFFIX, cn, direct
-IP-CIDR, 17.0.0.0/8, direct
-IP-CIDR, 40.96.0.0/13, direct
+DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, hotmail.com
+DOMAIN-SUFFIX, microsoftonline.com
+DOMAIN-SUFFIX, cn
+IP-CIDR, 17.0.0.0/8, ,no-resolve
+IP-CIDR, 40.96.0.0/13, ,no-resolve
 IP6-CIDR, ::/0, direct
 
 USER-AGENT, zhihuiguanjia*
