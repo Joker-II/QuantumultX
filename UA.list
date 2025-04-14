@@ -13,9 +13,9 @@ DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, hotmail.com
 DOMAIN-SUFFIX, microsoftonline.com
 DOMAIN-SUFFIX, cn
-IP-CIDR, 17.0.0.0/8, ,no-resolve
-IP-CIDR, 40.96.0.0/13, ,no-resolve
-IP6-CIDR, ::/0, direct
+IP-CIDR, 17.0.0.0/8, no-resolve
+IP-CIDR, 40.96.0.0/13, no-resolve
+IP6-CIDR, ::/0
 
 USER-AGENT, zhihuiguanjia*
 USER-AGENT, MicroMessenger*
