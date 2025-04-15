@@ -1,4 +1,5 @@
 
+DOMAIN-SUFFIX, mokexapp.io
 DOMAIN-SUFFIX, file.myqcloud.com
 DOMAIN-SUFFIX, elb.amazonaws.com
 DOMAIN-SUFFIX, amazontrust.com
@@ -6,7 +7,6 @@ DOMAIN-SUFFIX, forter.com
 DOMAIN-KEYWORD, bnb
 DOMAIN-KEYWORD, binance
 DOMAIN-KEYWORD, Saasexch
-DOMAIN-KEYWORD, mokexapp
 DOMAIN-KEYWORD, yingwangtech
 
 DOMAIN-SUFFIX, icloud.com
