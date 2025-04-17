@@ -1,9 +1,14 @@
 
+# > binance
+DOMAIN-SUFFIX, bnappzh.co
 DOMAIN-SUFFIX, mokexapp.io
+DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, bnappweb.biz
+DOMAIN-SUFFIX, appsflayer.com
+DOMAIN-SUFFIX, forter.com
+DOMAIN-SUFFIX, amazontrust.com
 DOMAIN-SUFFIX, file.myqcloud.com
 DOMAIN-SUFFIX, elb.amazonaws.com
-DOMAIN-SUFFIX, amazontrust.com
-DOMAIN-SUFFIX, forter.com
 DOMAIN-KEYWORD, bnb
 DOMAIN-KEYWORD, binance
 DOMAIN-KEYWORD, Saasexch
