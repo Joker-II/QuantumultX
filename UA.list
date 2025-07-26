@@ -23,4 +23,14 @@ IP-CIDR, 17.0.0.0/8, no-resolve
 IP-CIDR, 40.96.0.0/13, no-resolve
 IP6-CIDR, ::/0
 
-
+USER-AGENT, zhihuiguanjia*
+USER-AGENT, MicroMessenger*
+USER-AGENT, MicroMessengerClient*
+USER-AGENT, TeamViewer*
+USER-AGENT, hide*
+USER-AGENT, *WeatherFoundation*
+USER-AGENT, FMFD*
+USER-AGENT, Wallet*
+USER-AGENT, geod*
+USER-AGENT, locationd*
+USER-AGENT, passd*
