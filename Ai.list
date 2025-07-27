@@ -1,3 +1,20 @@
+# X
+DOMAIN-SUFFIX, cms-twdigitalassets.com
+DOMAIN-SUFFIX, periscope.tv
+DOMAIN-SUFFIX, pscp.tv
+DOMAIN-SUFFIX, t.co
+DOMAIN-SUFFIX, tellapart.com
+DOMAIN-SUFFIX, tweetdeck.com
+DOMAIN-SUFFIX, twimg.com
+DOMAIN-SUFFIX, twitpic.com
+DOMAIN-SUFFIX, twtrdns.net
+DOMAIN-SUFFIX, twttr.com
+DOMAIN-SUFFIX, twttr.net
+DOMAIN-SUFFIX, twvid.com
+DOMAIN-SUFFIX, vine.co
+DOMAIN-SUFFIX, x.com
+DOMAIN-KEYWORD, twitter
+
 # OpenAI ChatGPT
 DOMAIN, api.statsig.com
 DOMAIN, api-iam.intercom.io
