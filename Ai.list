@@ -48,4 +48,4 @@ DOMAIN-SUFFIX, people-pa.googleapis.com
 DOMAIN-SUFFIX, geller-pa.googleapis.com
 DOMAIN-SUFFIX, generativelanguage.googleapis.com
 DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
-IP-CIDR, 108.177.97.0/24,no-resolve
+IP-CIDR, 108.177.97.0/24
