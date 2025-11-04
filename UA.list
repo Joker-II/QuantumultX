@@ -21,6 +21,14 @@ DOMAIN-SUFFIX, microsoftonline.com
 DOMAIN-SUFFIX, cn
 IP-CIDR, 17.0.0.0/8, no-resolve
 IP-CIDR, 40.96.0.0/13, no-resolve
+#国内IPV6直连
+ip6-cidr, 240e::/16, direct
+ip6-cidr, 2408::/16, direct
+ip6-cidr, 2409::/16, direct
+ip6-cidr, 240c::/16, direct
+ip6-cidr, 240b::/16, direct
+ip6-cidr, 240d::/16, direct
+ip6-cidr, 2001:da8::/32, direct
 
 USER-AGENT, zhihuiguanjia*
 USER-AGENT, MicroMessenger*
