@@ -16,8 +16,6 @@ DOMAIN-KEYWORD, yingwangtech
 DOMAIN-KEYWORD, mtalk.google.com
 
 # > bilibili
-# 通信
-DOMAIN,data.bilibili.com
 # 商城
 DOMAIN,mall.bilibili.com
 # 评论区
