@@ -22,6 +22,12 @@ DOMAIN,data.bilibili.com
 DOMAIN,mall.bilibili.com
 # 评论区
 DOMAIN,api.vc.bilibili.com
+# CDN
+DOMAIN,upos-sz-mirrocos.bilivideo.com
+DOMAIN,upos-sz-mirroraliov.bilivideo.com 
+DOMAIN,upos-tf-all-hw.bilivideo.com
+DOMAIN,upos-tf-all-tx.bilivideo.com
+DOMAIN,proxy-tf-all-ws.bilivideo.com
 
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, hotmail.com
