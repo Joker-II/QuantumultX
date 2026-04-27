@@ -35,6 +35,7 @@ DOMAIN-SUFFIX, oaiusercontent.com
 
 # Google Gemini
 DOMAIN, ai.google.dev
+DOMAIN-SUFFIX, googleapis.com
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, apis.google.com
 DOMAIN-SUFFIX, bard.google.com
