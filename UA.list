@@ -30,7 +30,6 @@ DOMAIN,proxy-tf-all-ws.bilivideo.com
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, hotmail.com
 DOMAIN-SUFFIX, microsoftonline.com
-DOMAIN-SUFFIX, cn
 IP-CIDR, 17.0.0.0/8
 IP-CIDR, 40.96.0.0/13
 
